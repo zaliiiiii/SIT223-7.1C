@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Building and packaging application using Maven'
+                echo 'Building and packaging application using Maven - SIT223'
             }
         }
 
